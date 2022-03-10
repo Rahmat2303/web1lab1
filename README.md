@@ -4,14 +4,14 @@
 ### Struktur HTML
 Ini merupakan struktur HTML
 
-![Gambar 1](screenshot/ss1.PNG)
+![Gambar 1](screenshot/ss11.PNG)
 
 Dan ini tampilannya di browser
 
-![Gambar 2](screenshot/ss11.PNG)
+![Gambar 2](screenshot/ss12.PNG)
 
 ### Membuat paragraf
-Untu membuat paragraf pada HTML, menggunakan tag **<p>**
+Untu membuat paragraf pada HTML, menggunakan tag < p >
 Ini tampilannya
 
 ![Gambar 3](screenshot/ss21.PNG)
@@ -20,7 +20,7 @@ Dan ini tampilannya di browser
 
 ![Gambar 4](screenshot/ss22.PNG)
 
-Menyisipkan align=”center” dan align=”right” pada tag **<p>**
+Menyisipkan align=”center” dan align=”right” pada tag < p >
 
 ![Gambar 5](screenshot/ss31.PNG)
 
