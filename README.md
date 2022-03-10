@@ -9,21 +9,21 @@ Dan ini tampilannya di browser
 ![Gambar 2](screenshot/ss12.png)
 
 ### Membuat paragraf
-Untu membuat paragraf pada HTML menggunakan tag *<p></p>*
+Untu membuat paragraf pada HTML menggunakan tag <p></p>
 Ini tampilannya
 ![Gambar 3](screenshot/ss21.png)
 
 Dan ini tampilannya di browser
 ![Gambar 4](screenshot/ss22.png)
 
-Menyisipkan *align=”center”* dan *align=”right”* pada tag *<p>*
+Menyisipkan align=”center” dan align=”right” pada tag <p>
 ![Gambar 5](screenshot/ss31.png)
 
 Dan ini hasilnya
 ![Gambar 6](screenshot/ss32.png)
 
 ### Menambahkan Judul
-Untuk judul paragraf pertama menggunakan tag *<h1>* dan untuk judul paragraf yang kedua menggunakan tag *<h2>*
+Untuk judul paragraf pertama menggunakan tag <h1> dan untuk judul paragraf yang kedua menggunakan tag <h2>
 ![Gambar 7](screenshot/ss41.png)
 
 Ini tampilannya di browser
@@ -32,10 +32,10 @@ Ini tampilannya di browser
 Terlihat perbedaanya, judul yang pertama lebih besar dari judul yang kedua.
 
 ### Memformat teks
-Agar background teks menjadi warna kuning menggunakan tag *<mark></mark>*
-Agar teks menjadi tebal menggunakan tag *<b></b>*
-Agar teks menjadi miring menggunakan tag *<i></i>*
-Agar teks mempunyai garis bawah menggunakan tag *<u></u>*
+Agar background teks menjadi warna kuning menggunakan tag <mark></mark>
+Agar teks menjadi tebal menggunakan tag <b></b>
+Agar teks menjadi miring menggunakan tag <i></i>
+Agar teks mempunyai garis bawah menggunakan tag <u></u>
 
 Ini gambarnya
 ![Gambar 9](screenshot/ss51.png)
@@ -47,12 +47,12 @@ Dan ini tampilannya di browser
 Simpan file gambar di folder web1lab1
 ![Gambar 11](screenshot/ss61.png)
 
-Sebelumnya tambahkan dulu judul dengan menggunakan tag *<h3></h3>*
+Sebelumnya tambahkan dulu judul dengan menggunakan tag <h3></h3>
 
-Untuk bisa Menyisipkan gambar menggunakan tag *<img>*
-di dalam tag *<img>* tersebut di sertakan *src* kemudian di isi nama file gambar.
-Di sertakan juga *width* dan *height* untuk mengatur lebar dan panjang gambar.
-Dan si sertakan *title="Logo Universitas Pelita Bangsa"* agar ketika gambar tidak muncul akan muncul tulisan Logo Universitas Pelita Bangsa.
+Untuk bisa Menyisipkan gambar menggunakan tag <img>
+di dalam tag <img> tersebut di sertakan src kemudian di isi nama file gambar.
+Di sertakan juga width dan height untuk mengatur lebar dan panjang gambar.
+Dan si sertakan title="Logo Universitas Pelita Bangsa" agar ketika gambar tidak muncul akan muncul tulisan Logo Universitas Pelita Bangsa.
 Ini contoh kodingannya
 ![Gambar 12](screenshot/ss62.png)
 
@@ -60,8 +60,8 @@ Dan ini tampilannya di browser
 ![Gambar 13](screenshot/ss63.png)
 
 ### Menambahkan Hyperlink
-Untuk menambahkan link navigasi menggunakan tag *<a></a>*
-di dalam tag tersebut terdapat *href* yang diisi oleh nama file, kemudian di antara tag *<a></a>* diisi dengan nama link yang ingin digunakan. Dan tag *<a></a>* tersebut di buungkus oleh tag *<nav></nav>* kemudian dibawahnya ditambah tag *<hr>* agar muncul garis lurus.
+Untuk menambahkan link navigasi menggunakan tag <a></a>
+di dalam tag tersebut terdapat href yang diisi oleh nama file, kemudian di antara tag <a></a> diisi dengan nama link yang ingin digunakan. Dan tag <a></a> tersebut di buungkus oleh tag <nav></nav> kemudian dibawahnya ditambah tag <hr> agar muncul garis lurus.
 ![Gambar 14](screenshot/ss71.png)
 
 Dan ini tampilannya di browser
