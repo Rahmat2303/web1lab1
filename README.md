@@ -72,7 +72,7 @@ Dan ini tampilannya di browser
    error ketika terjadi kesalahan penulisan tag?
    Jawab :
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag (<p>) dengan tag <br>, berikan penjelasannya!
     Jawab : Tag <p> merupakan tag untuk menuliskan paragraf, sedangkan tag <br> untuk membuat garis baru.
 
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
