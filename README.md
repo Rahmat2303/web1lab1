@@ -3,7 +3,7 @@
 
 ### Struktur HTML
 Ini merupakan struktur HTML
-![Gambar 1](https://github.com/Rahmat2303/web1lab1/blob/main/web1lab1/screenshot/ss1.png)
+![Gambar 1](screenshot/ss1.PNG)
 
 Dan ini tampilannya di browser
 ![Gambar 2](screenshot/ss11.png)
