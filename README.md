@@ -3,13 +3,13 @@
 
 ### Struktur HTML
 Ini merupakan struktur HTML
-![Gambar 1](screenshot/ss11.png)
+![Gambar 1](screenshot/ss1.png)
 
 Dan ini tampilannya di browser
-![Gambar 2](screenshot/ss12.png)
+![Gambar 2](screenshot/ss11.png)
 
 ### Membuat paragraf
-Untu membuat paragraf pada HTML menggunakan tag <p></p>
+Untu membuat paragraf pada HTML menggunakan tag <p>
 Ini tampilannya
 ![Gambar 3](screenshot/ss21.png)
 
