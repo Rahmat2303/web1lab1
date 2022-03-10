@@ -49,7 +49,7 @@ Agar teks mempunyai garis bawah menggunakan tag < u >.
 
 Ini gambarnya
 
-![Gambar 9](screenshot/ss51.PNG)
+![Gambar 9](screenshot/ss51.png)
 
 Dan ini tampilannya di browser
 
@@ -98,15 +98,20 @@ Dan ini tampilannya di browser
 
     Jawab : atribut title merupakan tag ketika di sorot oleh mouse akan muncul tulisan yang diisi pada atribut title, namun tidak muncul ketika tidak disorot oleh mouse.
     Sedangkan atribut alt untuk mengetahui user ketika gambar tidak muncul akan muncul tulisan yang diisi pada atribut alt, contohnya Logo Universitas Pelita Bangsa
+
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
     proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
     Jawab : sebaiknya harus diisi semuanya agar gambar menjadi lebih enak dilihat. Karena ukuran gambarnya sudak di atur.
+
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
     _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
     Jawab :
     -Ketika atribut target diisi _blank, maka yang terjadi ketika kita mngklik link tersebut akan membuka tab baru.
+
     -Ketika atribut target diisi _self,  maka yang terjadi ketika kita mngklik link tersebut akan membuka di tab tersebut.
+
     -Ketika atribut target diisi _top,  maka yang terjadi ketika kita mngklik link tersebut masih akan membuka di tab baru dengan  layar penuh.
+
     -Ketika atribut target diisi _parent,  maka yang terjadi ketika kita mngklik link tersebut browser akan menampilkan semua dokumen yang dilink ke parent frame.
