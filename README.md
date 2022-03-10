@@ -11,16 +11,17 @@ Dan ini tampilannya di browser
 ![Gambar 2](screenshot/ss12.PNG)
 
 ### Membuat paragraf
-Untu membuat paragraf pada HTML, menggunakan tag < p >
+Untuk membuat paragraf pada HTML, menggunakan tag < p >.
+
 Ini tampilannya
 
 ![Gambar 3](screenshot/ss21.PNG)
 
-Dan ini tampilannya di browser
+Dan ini tampilannya di browser.
 
 ![Gambar 4](screenshot/ss22.PNG)
 
-Menyisipkan align=”center” dan align=”right” pada tag < p >
+Menyisipkan align=”center” dan align=”right” pada tag < p >.
 
 ![Gambar 5](screenshot/ss31.PNG)
 
@@ -29,19 +30,22 @@ Dan ini hasilnya
 ![Gambar 6](screenshot/ss32.PNG)
 
 ### Menambahkan Judul
-Untuk judul paragraf pertama menggunakan tag < h1 > dan untuk judul paragraf yang kedua menggunakan tag < h2 >
+Untuk judul paragraf pertama menggunakan tag < h1 > dan untuk judul paragraf yang kedua menggunakan tag < h2 >.
 
 ![Gambar 7](screenshot/ss41.PNG)
 
-Ini tampilannya di browser
+Ini tampilannya di browser.
 
 ![Gambar 8](screenshot/ss42.PNG)
 
 ### Memformat teks
-Agar background teks menjadi warna kuning menggunakan tag < mark >
-Agar teks menjadi tebal menggunakan tag < b >
-Agar teks menjadi miring menggunakan tag < i >
-Agar teks mempunyai garis bawah menggunakan tag < u >
+Agar background teks menjadi warna kuning menggunakan tag < mark >.
+
+Agar teks menjadi tebal menggunakan tag < b >.
+
+Agar teks menjadi miring menggunakan tag < i >.
+
+Agar teks mempunyai garis bawah menggunakan tag < u >.
 
 Ini gambarnya
 
@@ -56,7 +60,7 @@ Simpan file gambar di folder web1lab1
 
 ![Gambar 11](screenshot/ss61.PNG)
 
-Sebelumnya tambahkan dulu judul dengan menggunakan tag < h3 >
+Sebelumnya tambahkan dulu judul dengan menggunakan tag < h3 >.
 
 Untuk bisa Menyisipkan gambar menggunakan tag < img >
 di dalam tag < img > tersebut di sertakan src kemudian di isi nama file gambar.
@@ -71,7 +75,7 @@ Dan ini tampilannya di browser
 ![Gambar 13](screenshot/ss63.PNG)
 
 ### Menambahkan Hyperlink
-Untuk menambahkan link navigasi menggunakan tag < a >
+Untuk menambahkan link navigasi menggunakan tag < a >,
 di dalam tag tersebut terdapat href yang diisi oleh nama file, kemudian di antara tag < a > diisi dengan nama link yang ingin digunakan. Dan tag < a > tersebut di buungkus oleh tag < nav > kemudian dibawahnya ditambah tag < hr > agar muncul garis lurus.
 
 ![Gambar 14](screenshot/ss71.PNG)
@@ -100,7 +104,7 @@ Dan ini tampilannya di browser
     Jawab : sebaiknya harus diisi semuanya agar gambar menjadi lebih enak dilihat. Karena ukuran gambarnya sudak di atur.
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
     _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
-    
+
     Jawab :
     -Ketika atribut target diisi _blank, maka yang terjadi ketika kita mngklik link tersebut akan membuka tab baru.
     -Ketika atribut target diisi _self,  maka yang terjadi ketika kita mngklik link tersebut akan membuka di tab tersebut.
